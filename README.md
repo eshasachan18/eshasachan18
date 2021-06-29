@@ -21,9 +21,10 @@ Here are some ideas to get you started:
   <li>Currently exploring field of Data Science and Web Development</li>
   <li>![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 </li>
+    </ul>
    
 
 
-
+# Github stats
 [![Esha's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshasachan18&theme=radical)](https://github.com/eshasachan18/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eshasachan18&layout=compact&theme=radical)](https://github.com/eshasachan18/github-readme-stats)
