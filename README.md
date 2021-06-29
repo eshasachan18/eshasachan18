@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 <ul>
   <li>CSE 3rd Year undergraduate at NIT Uttarakhand</li>
   <li>Currently exploring field of Data Science and Web Development</li>
-  <li>![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-</li>
     </ul>
    
 
