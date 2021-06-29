@@ -41,5 +41,4 @@ Here are some ideas to get you started:
 # Github stats
 [![Esha's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshasachan18&theme=radical)](https://github.com/eshasachan18/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eshasachan18&layout=compact&theme=radical)](https://github.com/eshasachan18/github-readme-stats)
-[linkedin]: https://www.linkedin.com/in/esha-sachan-580b2a194/
-[gmail]: eshasachan18@gmail.com
+
