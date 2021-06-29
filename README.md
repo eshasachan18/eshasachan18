@@ -26,10 +26,9 @@ Here are some ideas to get you started:
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/> 
-<img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/> 
-  <img src="https://github.com/mongodb/mongo/blob/master/docs/leaf.svg" alt="C++" width="40" height="40"/> 
- 
-  <img src="https://camo.githubusercontent.com/f5a134304d1acc3cff23149d2a281126b2d818fa5f0f41baef6ec6bc06b45a95/68747470733a2f2f692e696d6775722e636f6d2f6841385a4e65762e706e67" alt="C++" width="40" height="40"/> 
+<img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/>                                                     <img src="https://github.com/mongodb/mongo/blob/master/docs/leaf.svg" alt="C++" width="40" height="40"/> 
+<img src="https://www.shecodes.io/assets/logos/technologies/javascript-50b69a37e0c4d3c360fe5f5bd1d032db1635db3c8bd3f251a5e1fe7489577947.png" alt="JS" width="40" height="40"/>
+<img src="https://camo.githubusercontent.com/f5a134304d1acc3cff23149d2a281126b2d818fa5f0f41baef6ec6bc06b45a95/68747470733a2f2f692e696d6775722e636f6d2f6841385a4e65762e706e67" alt="C++" width="40" height="40"/> 
   
 
 </p>
