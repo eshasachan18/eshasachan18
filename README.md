@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 <ul>
   <li>CSE 3rd Year undergraduate at NIT Uttarakhand</li>
   <li>Currently exploring field of Data Science and Web Development</li>
+  <li>Tech stack- C++,
     </ul>
    
-
+![Visitor Count](https://profile-counter.glitch.me/{eshasachan18}/count.svg)
 
 # Github stats
 [![Esha's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshasachan18&theme=radical)](https://github.com/eshasachan18/github-readme-stats)
