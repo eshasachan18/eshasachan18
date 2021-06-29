@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/> 
 
 </p>
+<h2>Profile Visits</h2>
    
 ![Visitor Count](https://profile-counter.glitch.me/{eshasachan18}/count.svg)
 
