@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <ul>
   <li>CSE 3rd Year undergraduate at NIT Uttarakhand</li>
   <li>Currently exploring field of Data Science and Web Development</li>
- ### My Tech Toolbox 🧰 
+    </ul>
+  ### My Tech Toolbox 🧰 
 
 <p align="left">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
@@ -28,8 +29,6 @@ Here are some ideas to get you started:
 <img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/> 
 
 </p>
-  
-    </ul>
    
 ![Visitor Count](https://profile-counter.glitch.me/{eshasachan18}/count.svg)
 
