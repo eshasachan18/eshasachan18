@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <li>CSE 3rd Year undergraduate at NIT Uttarakhand</li>
   <li>Currently exploring field of Data Science and Web Development</li>
     </ul>
-  ### My Tech Toolbox 🧰 
+  <h2> My Tech Toolbox 🧰 </h2>
 
 <p align="left">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
