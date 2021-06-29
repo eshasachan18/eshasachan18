@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   <h2> My Tech Toolbox 🧰 </h2>
 
 <p align="left">
+  <img src="https://www.shecodes.io/assets/logos/technologies/…3b463b644d368ad5c5e5be33d7030ea974aaead1aa1e5.png" width="40" height="40"/>
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/> 
