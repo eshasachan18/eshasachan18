@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 <h2>Profile Visits</h2>
    
 ![Visitor Count](https://profile-counter.glitch.me/{eshasachan18}/count.svg)
+- 📫 How to reach me **esha.csebt18@nituk.ac.in**
 
 # Github stats
 [![Esha's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshasachan18&theme=radical)](https://github.com/eshasachan18/github-readme-stats)
