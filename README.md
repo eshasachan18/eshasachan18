@@ -28,7 +28,10 @@ Here are some ideas to get you started:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/> 
 <img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/> 
   <img src="https://github.com/mongodb/mongo/blob/master/docs/leaf.svg" alt="C++" width="40" height="40"/> 
+   <img src="
+  https://1000logos.net/javascript-logo/" alt="C++" width="40" height="40"/> 
   <img src="https://camo.githubusercontent.com/f5a134304d1acc3cff23149d2a281126b2d818fa5f0f41baef6ec6bc06b45a95/68747470733a2f2f692e696d6775722e636f6d2f6841385a4e65762e706e67" alt="C++" width="40" height="40"/> 
+  
 
 </p>
 <h2>Profile Visits</h2>
