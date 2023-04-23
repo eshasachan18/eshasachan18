@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 # About Me
 <ul>
-  <li>CSE Final Year undergraduate at NIT Uttarakhand</li>
+  <li>CSE Graduate at NIT Uttarakhand</li>
   <li>Currently exploring field of Data Science and Web Development</li>
     </ul>
   <h2> My Tech Toolbox 🧰 </h2>
